@@ -1,0 +1,5 @@
+fastapi[all]
+pydantic
+python-dotenv
+mistralai  # Replace with the actual version if different
+uvicorn
